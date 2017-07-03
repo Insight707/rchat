@@ -1,0 +1,27 @@
+{
+  "name": "rchat",
+  "version": "1.0.0",
+  "description": "Wrapper of MQTT client library",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insight707/rchat.git"
+  },
+  "author": "Valeriy Soldatov <soldatov@raketa.im> (https://raketa.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Insight707/rchat/issues"
+  },
+  "homepage": "https://github.com/Insight707/rchat#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "mqtt": "^2.9.0",
+    "typescript.events": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
